@@ -1,0 +1,6 @@
+C:\Users\15053\Documents\UoP\POS 408 .NET I\Week 4\Chapter09\Ch09ClassLib\bin\Debug\Ch09ClassLib.dll
+C:\Users\15053\Documents\UoP\POS 408 .NET I\Week 4\Chapter09\Ch09ClassLib\bin\Debug\Ch09ClassLib.pdb
+C:\Users\15053\Documents\UoP\POS 408 .NET I\Week 4\Chapter09\Ch09ClassLib\obj\Debug\Ch09ClassLib.csprojAssemblyReference.cache
+C:\Users\15053\Documents\UoP\POS 408 .NET I\Week 4\Chapter09\Ch09ClassLib\obj\Debug\Ch09ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\15053\Documents\UoP\POS 408 .NET I\Week 4\Chapter09\Ch09ClassLib\obj\Debug\Ch09ClassLib.dll
+C:\Users\15053\Documents\UoP\POS 408 .NET I\Week 4\Chapter09\Ch09ClassLib\obj\Debug\Ch09ClassLib.pdb

@@ -1,0 +1,2 @@
+C:\Users\15053\Documents\UoP\POS 408 .NET I\Week 4\Chapter09\Ch09Ex02\obj\Debug\Ch09Ex02.csprojAssemblyReference.cache
+C:\Users\15053\Documents\UoP\POS 408 .NET I\Week 4\Chapter09\Ch09Ex02\obj\Debug\Ch09Ex02.csproj.CoreCompileInputs.cache
